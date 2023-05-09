@@ -10,10 +10,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omarcv07/omarcv07/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Connect with me!</h2>
 
 ###
