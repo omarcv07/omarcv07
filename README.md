@@ -1,16 +1,17 @@
-### Hi there 👋
+# About Me
 
-<!--
-**omarcv07/omarcv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I am a full stack developer with extensive experience in a variety of technologies. I have a passion for writing clean, efficient code and always seek to learn more. I love tackling complex problems and turning them into simple, effective solutions.
 
-Here are some ideas to get you started:
+# Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in the following technologies:
+
+- **React JS**: I have a deep understanding of React and its ecosystem. I can create responsive and performant user interfaces, and have experience in using Hooks, Redux, and other related libraries.
+
+- **NodeJS**: I have used NodeJS to build robust and scalable backend services. I am proficient in ExpressJS and have a good understanding of the Event Loop, non-blocking I/O, and other essential aspects of Node.
+
+- **TypeScript**: I use TypeScript to write safer, self-documenting JavaScript code. I am familiar with advanced concepts like type guards, conditional types, and mapped types.
+
+- **AWS**: I have experience with various AWS services like EC2, S3, Lambda, and DynamoDB. I can architect and manage cloud infrastructure, and have a good understanding of IAM, VPC, and other security aspects.
+
+I am always looking to learn new technologies and improve my skills. Feel free to reach out to me if you have a project that you think I could help with.
